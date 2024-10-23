@@ -1,6 +1,6 @@
 # bigdata-2024
 
-Задание(реализовать на apache spark)
+Задание(реализовать на apache spark в режиме in memory)
 
 Шаги:
 1. Проверить корректность загруженных данных через SQL-запрос (количество строк, корректность заполнения всех столбцов).
@@ -26,3 +26,8 @@
 Вариант 4: 
 - Датасеты DAILY_CASES (Daily COVID-19 cases and deaths by date reported to WHO), COUNTRIES (https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density)
 - запрос: Определить, насколько скорость распространения COVID зависит от плотности населения страны.
+
+
+Материалы:
+- https://mai.moscow/pages/viewpage.action?pageId=14155796
+- https://github.com/sh-vasily/bigdata-2023/tree/main/spark
