@@ -1,6 +1,34 @@
 # bigdata-2024
 
-Задание(реализовать на apache spark в режиме in memory)
+# Лекция 1.  Что такое "Большие данные". Отличия реляционных от нереляционных баз данных.
+
+- [Материалы](https://disk.yandex.ru/d/wYZ5KCF9_L62Zg)
+
+# Лекция 2. Знакомство с платформой и дистрибутивами Hadoop
+
+- [Материалы](https://disk.yandex.ru/d/YgiWHB6JPOve4Q)
+
+# Лекция 3.  Платформа Apache Hadoop: файловая система HDFS. Форматы хранения данных. Компрессия данных.
+
+- [Материалы](https://disk.yandex.ru/d/G6SE3v_-FtsV9A)
+
+# Лекция 4. Планировщик задач YARN
+
+- [Материалы](https://disk.yandex.ru/d/s43-FX-eOoZqOA)
+
+# Лекция 5. Фреймворк Apache Spark
+
+- [Материалы](https://disk.yandex.ru/d/WTGaC4nEMtcW8g)
+
+- [Исходный код](spark)
+
+# Лекция 6.
+
+# Лекция 7.
+
+# Лекция 8.
+
+# Задание(реализовать на apache spark в режиме in memory)
 
 Постановка задачи: Выбрать вариант, реалиовать запросы на pyspark/java/scala
 
