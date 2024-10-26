@@ -20,7 +20,7 @@
 
 - [Материалы](https://disk.yandex.ru/d/WTGaC4nEMtcW8g)
 
-- [Исходный код](spark)
+- [Исходный код](spark/pyspark.ipynb)
 
 # Лекция 6.
 
