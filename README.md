@@ -7,10 +7,13 @@
 # Лекция 2. Знакомство с платформой и дистрибутивами Hadoop
 
 - [Материалы](https://disk.yandex.ru/d/YgiWHB6JPOve4Q)
+- [Дистрибутив Hadoop Cloudera](https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.12.0-0-virtualbox.zip)
+- [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
 # Лекция 3.  Платформа Apache Hadoop: файловая система HDFS. Форматы хранения данных. Компрессия данных.
 
 - [Материалы](https://disk.yandex.ru/d/G6SE3v_-FtsV9A)
+- [Пример работы с hdfs](map-reduce/words-count/execute.sh)
 
 # Лекция 4. Планировщик задач YARN
 
