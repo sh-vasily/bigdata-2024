@@ -26,7 +26,7 @@
 - [Исходный код](spark/pyspark.ipynb)
 
 # Лекция 6. Hadoop MapReduce
-- [Материалы](https://disk.yandex.ru/i/oR6N73JhVYZ7XA)
+- [Материалы](https://disk.yandex.ru/d/izpuyadgsUmTzw)
 
 - [Исходный код](map-reduce)
 
