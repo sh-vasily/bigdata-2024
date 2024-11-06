@@ -30,9 +30,13 @@
 
 - [Исходный код](map-reduce)
 
-# Лекция 7.
+# Лекция 7. Apache Hive
 
-# Лекция 8.
+- [Материалы](https://disk.yandex.ru/d/DpztYNDigLhVpg)
+
+# Лекция 8. Apache Zookeeper. Профилирование и анализ качества данных
+
+- [Материалы](https://disk.yandex.ru/d/GNuzwj_6CXL9qw)
 
 # Задание(реализовать на apache spark в режиме in memory)
 
